@@ -8,6 +8,7 @@ Test:
 
 run all the file together:
 
+ Example ->
 - go  run file.go anotherFile.go 
 
 This above should be present in the system
